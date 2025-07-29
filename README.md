@@ -27,9 +27,8 @@ Connect With Me
 
 ---
 
-!Visitor Count
-]
-![Visitor Count](.https://komarev.com/ghpvc/?username=FreeYungHammy&color=blue)
+
+![Visitor Count](.https://komarev.com/ghpvc/?username=DropTheBeat04&color=blue)
 <!--
 **DropTheBeat04/DropTheBeat04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
