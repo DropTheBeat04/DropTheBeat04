@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DropTheBeat04&show_icons=true&theme=gruvbox)
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DropTheBeat04&show_icons=true&theme=radical)
 GitHub Stats
 <table>
   <tr>
