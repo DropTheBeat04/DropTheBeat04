@@ -1,18 +1,17 @@
 ## Hi there 👋
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DropTheBeat04&show_icons=true&theme=radical)
 GitHub Stats
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DropTheBeat04&show_icons=true&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DropTheBeat04&show_icons=true&theme=city_lights" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropTheBeat04&layout=compact&langs_count=10&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropTheBeat04&layout=compact&langs_count=10&theme=city_lights" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=DropTheBeat04&theme=tokyonight" />
+      <img src="https://streak-stats.demolab.com/?user=DropTheBeat04&theme=city_lights" />
     </td>
   </tr>
 </table>
