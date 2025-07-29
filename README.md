@@ -3,7 +3,7 @@ GitHub Stats
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DropTheBeat04&show_icons=true&theme=city_lights" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DropTheBeat04&show_icons=true&theme=ocean-dark" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropTheBeat04&layout=compact&langs_count=10&theme=city_lights" />
