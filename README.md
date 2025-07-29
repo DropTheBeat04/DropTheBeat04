@@ -11,7 +11,7 @@ GitHub Stats
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=DropTheBeat04&theme=dark" />
+      <img src="https://streak-stats.demolab.com/?user=DropTheBeat04&theme=tokyonight" />
     </td>
   </tr>
 </table>
