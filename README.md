@@ -6,12 +6,12 @@ GitHub Stats
       <img src="https://github-readme-stats.vercel.app/api?username=DropTheBeat04&show_icons=true&theme=nord" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropTheBeat04&layout=compact&langs_count=10&theme=outrun" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DropTheBeat04&layout=compact&langs_count=10&theme=nord" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com/?user=DropTheBeat04&theme=city_lights" />
+      <img src="https://streak-stats.demolab.com/?user=DropTheBeat04&theme=nord" />
     </td>
   </tr>
 </table>
